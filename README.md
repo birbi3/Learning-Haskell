@@ -3,4 +3,4 @@
 I want to get better at Haskell so I got a text book and went at it. Here are all my solutions to the problems I solved and all the examples I followed along to.
 
 
---page 37 Guards, Guards!
+--page 45 Recursion
